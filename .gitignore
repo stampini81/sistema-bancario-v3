@@ -1,0 +1,26 @@
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+
+# SQLite / data (descomente se quiser ignorar o banco)
+# *.sqlite
+
+# Logs
+*.log
